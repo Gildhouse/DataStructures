@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# CMake build artifacts
+/build/
+/cmake-build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# gtest downloaded content
+/_deps/
+
+# VSCode settings
+.vscode/

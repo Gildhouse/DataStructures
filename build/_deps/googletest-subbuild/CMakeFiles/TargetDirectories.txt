@@ -1,3 +1,0 @@
-/Users/josephgildhouse/Desktop/DataStructures/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/Users/josephgildhouse/Desktop/DataStructures/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/Users/josephgildhouse/Desktop/DataStructures/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

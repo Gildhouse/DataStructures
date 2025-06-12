@@ -31,6 +31,12 @@
 *.out
 *.app
 
+#Ignore Executables in Basics
+/src/Basics/*
+!src/Basics/*.cpp
+!src/Basics/*.hpp
+
+
 # CMake build artifacts
 /build/
 /cmake-build-*/
